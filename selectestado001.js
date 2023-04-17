@@ -748,6 +748,6 @@ estado_lista =  [
       "Abstenciones": "147",
       "TotalNoCombate": "12%",
       "Presupuesto": "$233,531,300.00",
-      "Montos": "NR"
+      "Montos": "$8,277,485.52"
     }
   ];
